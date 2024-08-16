@@ -57,13 +57,14 @@ main hr{
     padding:50px 0;
 }
 .leftSection .btn{
-    padding:12px;
+    padding:10px;
     background:#1e2167;
     color:white;
     border:2px solid white;
     border-radius:6px;
     font-size:20px;
     cursor:pointer;
+    text-decoration: none;
 }
 .leftSection .git{
     padding:10px;
